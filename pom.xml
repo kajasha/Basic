@@ -26,11 +26,11 @@
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
-                    <finalName>Basic</finalName>
+                    <finalName>it.morfoza.Basic</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>Basic</mainClass>
+                            <mainClass>it.morfoza.Basic</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
