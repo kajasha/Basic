@@ -1,6 +1,7 @@
 package it.morfoza;
 
-public class Main {
+public class Basic {
     public static void main(String[] args) {
+
     }
 }
